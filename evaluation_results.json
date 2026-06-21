@@ -1,0 +1,13 @@
+{
+  "baseline_accuracy": 0.7667,
+  "finetuned_accuracy": 0.3,
+  "improvement": -0.4667,
+  "test_set_size": 30,
+  "label_map": {
+    "news / information update": 0,
+    "evidence-based analysis": 1,
+    "reaction / hot take": 2,
+    "humor / banter": 3
+  },
+  "model": "distilbert-base-uncased"
+}
