@@ -453,3 +453,5 @@ LABEL_MAP = {
 The fine-tuned DistilBERT model met the project's success criteria after training for 4 epochs. It achieved 0.767 accuracy and 0.76 macro F1 on the test set, matching the zero-shot Groq baseline's accuracy while producing more balanced recall across labels.
 
 For a real community tool, the fine-tuned model is a reasonable first version because it is fast, local, and does not require an LLM API call for every classification. However, the model should still be tested on a larger dataset before being treated as production-ready. The next improvements should focus on adding more hard examples around the boundary between analysis, hot takes, and banter.
+
+LOOM Demonstration Video: https://www.loom.com/share/dc95ad73aa7c41c4867e876c60a3246e
