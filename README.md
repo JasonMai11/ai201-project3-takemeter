@@ -278,7 +278,7 @@ AI assistance included:
 - Suggesting how to structure `planning.md`
 - Helping debug label formatting issues in the notebook
 - Helping interpret the baseline and fine-tuned model results
-- Helping draft this README
+
 
 The dataset examples were collected from public r/soccer content. AI-generated examples were not used as training data. Any AI-assisted labels were reviewed manually.
 
